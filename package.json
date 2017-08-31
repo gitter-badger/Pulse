@@ -1,13 +1,13 @@
 {
     "name": "pulse",
     "version": "1.0.0",
-    "description": "Discord Bot for PlayerBerry",
+    "description": "PlayerBerry için bot",
     "main": "pulse.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Hata: Hiçbir test belirtilmedi\" && exit 1"
     },
     "keywords": [
-        "PlayerBerry"
+        "Pulse"
     ],
     "author": "Yankı Küçük",
     "license": "ISC",
@@ -28,9 +28,9 @@
     "homepage": "https://github.com/kendinikertenkelebek/",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kendinikertenkelebek/PlayerBerry.git",
+        "url": "git+https://github.com/kendinikertenkelebek/Pulse.git",
         "bugs": {
-            "url": "https://github.com/kendinikertenkelebek/WG/issues"
+            "url": "https://github.com/kendinikertenkelebek/Pulse/issues"
         }
     },
     "engines": {
