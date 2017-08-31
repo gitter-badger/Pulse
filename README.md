@@ -89,5 +89,5 @@ Detaylı bilgi için [tıklayın](https://github.com/kendinikertenkelebek/Pulse/
 $ npm install
 
 # Çalıştırmak
-$ node app.js
+$ node pulse.js
 ```

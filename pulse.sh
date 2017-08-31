@@ -1,4 +1,3 @@
-
 # setup file for linux.
 
 echo "gerekli paketler yükleniyor..."

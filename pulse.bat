@@ -1,4 +1,3 @@
-
 @echo off
 
 set NODE_VER=null
