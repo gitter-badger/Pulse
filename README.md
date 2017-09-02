@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  <a href="http://www.discorapp.com"><img src="http://i.imgur.com/ksz9FHE.png" alt="Pulse" width="200"></a>
+  <a href="https://discordapp.com"><img src="http://i.imgur.com/ksz9FHE.png" alt="Pulse" width="200"></a>
   <br>
   Pulse
   <br>
 </h1>
-<h4 align="center"><a href="http://discordapp.com" target="_blank">PlayerBerry</a> Sunucusu için geliştirilen bot.</h4>
+<h4 align="center"><a href="https://discordapp.com" target="_blank">PlayerBerry</a> Sunucusu için geliştirilen bot.</h4>
 <p align="center">
   <a href="http://nodejs.org"><img src="https://img.shields.io/badge/Node.js-8.4.0-blue.svg" alt="Node JS"></a>
   <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-12.0.0%23dev-blue.svg" alt="Discord JS"></a>
@@ -32,10 +32,10 @@ Detaylı bilgi için [tıklayın](https://github.com/kendinikertenkelebek/Pulse/
   - Hata Verdiğinde Belirli Bir Kanala Bunu Gönderme
   - Gelen Kullanıcıyı Sunucu Moduna Göre Karşılama
   - Sunucu Moduna Göre Roller Verme
-  - Discod.js 12.0.0 Uyumluluğu
+  - Discord.js 12.0.0 Uyumluluğu
   - Node.js 8.4.0 Uyumluluğu
-  - Komut devredışı bırakma, yeniden yükleme 
-  - Botun Statüsünü değiştirme
+  - Yeniden yükleme 
+  - Botun durumunu değiştirme
   - Veritabanı yedeği alır, yükler, siler
   - Sunucu istatistikleri
 * Moderasyon işlermleri:
@@ -49,14 +49,13 @@ Detaylı bilgi için [tıklayın](https://github.com/kendinikertenkelebek/Pulse/
   - Kullanıcı Susturma
   - Sunucu Modu Değiştirme (Normal, Turnuva, Alıma Kapalı)
   - Kendini Yeniden Başlatma
-  - Webhook ekleme
   - Belirli bir kanalda anons yapma
   - Banlanan kullanıcıların listesini gösterme / Ban kaldırma
   - Moderatör atama ve moderatörlük silme
   - Kişiler tarafından silinmiş mesajların tek bir kanalda toplanması
-  - Kullanıcı giriş çıkış ve moderesyon işlemlerinin bildirimlerini bir kanalda gönderme
+  - Kullanıcı giriş-çıkış ve moderesyon işlemlerinin bildirimlerini bir kanalda gönderme
 * Geri Bildirim
-  - Bug, istek ve şikayet bildirimlerini almak ve belili bir kanala yollamak
+  - Bug, istek ve şikayet bildirimlerini almak ve belirli bir kanala yollamak
 * Twitch.tv
   - Yayın başladığında bot genel sohbete link bırakır
   - Yayın bittiğinde haber verir
