@@ -34,7 +34,7 @@ Detaylı bilgi için [tıklayın](https://github.com/kendinikertenkelebek/Pulse/
   - Sunucu Moduna Göre Roller Verme
   - Discord.js 12.0.0 Uyumluluğu
   - Node.js 8.4.0 Uyumluluğu
-  - Yeniden yükleme 
+  - Bir komutu eniden yükleme 
   - Botun durumunu değiştirme
   - Veritabanı yedeği alır, yükler, siler
   - Sunucu istatistikleri
