@@ -16,3 +16,5 @@ pulse.js
 .tmp/
 .vscode/
 webpack/
+
+!docs/assets
