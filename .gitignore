@@ -5,7 +5,6 @@ package-lock.json
 
 # Sistem ve Araçlar
 database/
-docs/assets/
 assets/
 commands/
 events/
