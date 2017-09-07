@@ -85,7 +85,7 @@ Detaylı bilgi için [tıklayın](https://github.com/kendinikertenkelebek/Pulse/
 
 ```bash
 # Paketleri Yüklemek
-$ npm install
+$ npm i
 
 # Çalıştırmak
 $ node pulse.js
