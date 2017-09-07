@@ -19,6 +19,8 @@
 
 ## Hakkında
 
+[![Join the chat at https://gitter.im/PulseOriginal/Lobby](https://badges.gitter.im/PulseOriginal/Lobby.svg)](https://gitter.im/PulseOriginal/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PlayerBerry sunucusu için geliştirilmeye başlanan ve gün geçtikçe çok daha iyi bir hale gelerek, bazı konularda emsali görülmemiş işlevleri mevcuttur. Şu anki versiyonu 1.0.0 olup 1.0.1 için çalışmalara başlanmıştır. Bununla birlikte geliştirilmesini planladığımız yapılacaklar listemiz aşağıdadır:
 
 ## Yapılacaklar Listesi
